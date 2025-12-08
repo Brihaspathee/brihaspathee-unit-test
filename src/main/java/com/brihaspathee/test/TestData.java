@@ -11,8 +11,6 @@ package com.brihaspathee.test;
  */
 public class TestData<E> {
 
-
-
     /**
      * Unique test case id created for the test case
      */
